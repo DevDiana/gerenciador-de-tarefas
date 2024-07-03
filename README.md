@@ -10,8 +10,8 @@ Este é um projeto simples de Gerenciador de Tarefas desenvolvido em Java. Ele p
 - Sair do programa
 
 ## Ao executar o programa, você verá o seguinte menu no terminal:
+![image](https://github.com/DevDiana/gerenciador-de-tarefas/assets/63608845/f3a8f72c-c7d7-4e5f-9e1c-074a37848ad6)
 
-Adicionar Tarefa:
 
 Escolha a opção 1.
 Insira o nome e a descrição da tarefa.
